@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "sliced": "0.0.5"
+    "sliced": "escribano/sliced"
   },
   "devDependencies": {
     "mocha": "*",
